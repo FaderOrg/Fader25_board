@@ -1,0 +1,3 @@
+[submodule "fader25_pcb"]
+	path = fader25_pcb
+	url = git@github.com:FaderOrg/fader25_pcb.git
