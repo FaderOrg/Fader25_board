@@ -1,2 +1,3 @@
 # Fader25_board
-Repository for PCB design
+Repository for Fader 2.5 PCB test board design
+
